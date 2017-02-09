@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file:///Development/HanselPetalRx/HanselPetalRx.iml" filepath="/Development/HanselPetalRx/HanselPetalRx.iml" />
+      <module fileurl="file:///Development/HanselPetalRx/app/app.iml" filepath="/Development/HanselPetalRx/app/app.iml" />
+    </modules>
+  </component>
+</project>
